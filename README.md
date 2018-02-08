@@ -1,7 +1,5 @@
-# vue
-
-> Grinder Layout
-
+# GRINDER JS
+DEMO: https://codesandbox.io/s/github/radixzz/grinder-js
 A port from the jquery plugin: https://github.com/axyz/perfect-layout
 
 ## Build Setup
