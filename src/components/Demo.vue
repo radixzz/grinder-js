@@ -7,7 +7,7 @@
 </template>
 
 <script>
-	import Grinder from "/lib/grinder";
+	import Grinder from "../lib/grinder";
 	export default {
   name: 'demo',
 	mounted() {

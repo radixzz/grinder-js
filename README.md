@@ -1,6 +1,8 @@
 # vue
 
-> A Vue.js project
+> Grinder Layout
+
+A port from the jquery plugin: https://github.com/axyz/perfect-layout
 
 ## Build Setup
 

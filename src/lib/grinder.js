@@ -1,5 +1,5 @@
-import BreakpointPartition from "/lib/partition";
-import GrinderBlock from "/lib/grinder-block";
+import BreakpointPartition from "./partition";
+import GrinderBlock from "./grinder-block";
 
 const DEFAULT_CONFIG = {
   el: document.body,
