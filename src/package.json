@@ -1,0 +1,12 @@
+{
+  "name": "Grinder",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/42zp241w60",
+  "main": "index.js",
+  "dependencies": {
+    "vue-router": "3.0.1",
+    "vue": "2.5.2"
+  }
+}
